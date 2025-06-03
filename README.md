@@ -1,8 +1,8 @@
-Level-1: Landing Page- NutriPlan
+Task-1: Landing Page- NutriPlan
 
-Level-2: Portfolio
+Task-2: Portfolio
 
-Level-3: Temperature Converter
+Task-3: Temperature Converter
 
 Developed By: Disha Bora 
 
@@ -10,11 +10,11 @@ Oasis Infobyte Web Development and Desigining Internship
 
 Project Overview: 
 
-Level-1: This is basically a simple landing page for a personalised diet planner website. Here we are using just HTML and CSS for desinging the webpage. This is an attactive and also and interative webpage.
+Task-1: This is basically a simple landing page for a personalised diet planner website. Here we are using just HTML and CSS for desinging the webpage. This is an attactive and also and interative webpage.
 
-Level-2: This is a basic portfolio using HTML and CSS.
+Task-2: This is a basic portfolio using HTML and CSS.
 
-Level-3: It a tempareture converter website that converts celsius to fahrenheit and vice versa using HTML, CSS, and JavaScript.
+Task-3: It a tempareture converter website that converts celsius to fahrenheit and vice versa using HTML, CSS, and JavaScript.
 
 Features:
 
